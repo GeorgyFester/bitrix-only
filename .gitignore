@@ -1,0 +1,7 @@
+/bitrix/
+/upload/
+.idea/
+.DS_Store
+test.php
+fix.php
+.htaccess
